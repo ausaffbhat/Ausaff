@@ -1,3 +1,1 @@
-Hello Git
-Second line
-Written from the clone
+test line
